@@ -1,5 +1,24 @@
 # rasikha
 
-This is a flashcard app for the arabic language that helps to firmly memorize a word
+Rasikha is a flashcard app for Arabic vocabulary. It helps you memorize a word by generating example sentences for translation and production, with a focus on verb forms.
 
-It will take a word and generate senteces for translation and production and will help a user understand all the verb forms
+## Quick start (mobile app)
+
+Prereqs: Node.js 18+ and npm.
+
+```bash
+cd mobile
+npm install
+npx expo start
+```
+
+Follow the Expo prompts to open the app on a device or simulator.
+
+## Repo layout
+
+- `mobile/` Expo + React Native app
+- `backend/` Placeholder for future backend work
+
+## More info
+
+See `mobile/README.md` for Expo-specific details.
