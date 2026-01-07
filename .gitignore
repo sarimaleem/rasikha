@@ -20,3 +20,18 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+### Mobile (Expo/Node)
+.DS_Store
+mobile/node_modules/
+mobile/.expo/
+mobile/.expo-shared/
+mobile/dist/
+mobile/web-build/
+mobile/.env*.local
+mobile/.metro-health-check*
+mobile/npm-debug.*
+mobile/yarn-debug.*
+mobile/yarn-error.*
+mobile/ios/
+mobile/android/
